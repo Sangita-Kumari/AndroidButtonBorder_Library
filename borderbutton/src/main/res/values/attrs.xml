@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ButtonStrokeAttrs">
+        <attr name="buttonColor" format="string"/>
+        <attr name="borderColor" format="string"/>
+        <attr name="borderWidth" format="dimension"/>
+        <attr name="cornerRadius" format="dimension"/>
+    </declare-styleable>
+
+</resources>

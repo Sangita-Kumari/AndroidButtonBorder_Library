@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:borderbutton="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.prem.borderbutton.BorderButton
+        android:id="@+id/btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Click Me"
+        android:textAllCaps="false"
+        android:textColor="#BF0A47"
+        android:padding="15dp"
+        borderbutton:buttonColor="#c1c1c1"
+        borderbutton:borderColor="#000000"
+        borderbutton:borderWidth="3dp"
+        borderbutton:cornerRadius="10dp"/>
+
+
+</RelativeLayout>
