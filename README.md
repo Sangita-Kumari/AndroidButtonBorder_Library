@@ -2,7 +2,7 @@
 [![platform](https://img.shields.io/badge/platform-android-green)](https://www.android.com)
 [![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=plastic)](https://android-arsenal.com/api?level=19)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
-[![](https://jitpack.io/v/PremMehta022/BorderButtonLibrary.svg)](https://jitpack.io/#PremMehta022/BorderButtonLibrary)
+
 
 
 
@@ -36,7 +36,7 @@ Add this to your module's `build.gradle` file (make sure the version matches the
 ```gradle
 dependencies {
 	...
-	implementation 'com.github.PremMehta022:BorderButtonLibrary:1.0.0'
+	implementation 'com.github.Sangita-Kumari:BorderButtonLibrary:1.0.0'
 }
 ```
 
@@ -106,8 +106,8 @@ but will be thoroughly reviewed.
 
 ### Contact - Let's become friend
 
-- [Github](https://github.com/PremMehta022)
-- [Linkedin](https://www.linkedin.com/in/premmehta/)
+- [Github](https://github.com/Sangita-Kumari)
+- [Linkedin](https://www.linkedin.com/in/sangita-kumari-130a7a226/)
 
 
 ## License
