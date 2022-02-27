@@ -46,7 +46,7 @@ You can use either in XML or in Java
 
 - #### Through XML layout file
 
-      <com.prem.borderbutton.BorderButton
+      <com.sangita.borderbutton.BorderButton
         android:id="@+id/btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -114,7 +114,7 @@ but will be thoroughly reviewed.
 * [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ```
-Copyright 2020 Prem Mehta
+Copyright 2022 Sangita Kumari
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
